@@ -20,3 +20,9 @@ void Stack::pop() {
     ind--;
 }
 
+int Stack::top() const {
+    return arr[ind];
+}
+
+
+
