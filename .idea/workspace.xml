@@ -11,7 +11,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33aaf7ef-fe83-4560-94e9-9d291bbb50b1" name="Default Changelist" comment="implemented pop method">
+    <list default="true" id="33aaf7ef-fe83-4560-94e9-9d291bbb50b1" name="Default Changelist" comment="implemented full method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stack.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/stack.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600796549956</updated>
-      <workItem from="1600796551603" duration="2102000" />
+      <workItem from="1600796551603" duration="2600000" />
     </task>
     <task id="LOCAL-00001" summary="added push method">
       <created>1600798596196</created>
@@ -78,7 +79,28 @@
       <option name="project" value="LOCAL" />
       <updated>1600798659644</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implemented top method">
+      <created>1600798854492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600798854492</updated>
+    </task>
+    <task id="LOCAL-00004" summary="implemented empty method">
+      <created>1600798911686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600798911686</updated>
+    </task>
+    <task id="LOCAL-00005" summary="implemented full method">
+      <created>1600798953376</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600798953376</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +109,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added push method" />
     <MESSAGE value="implemented pop method" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented pop method" />
+    <MESSAGE value="implemented top method" />
+    <MESSAGE value="implemented empty method" />
+    <MESSAGE value="implemented full method" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented full method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#New_File_Extensions" timestamp="1600796682205">
