@@ -28,5 +28,7 @@ bool Stack::empty() const {
     return ind == -1;
 }
 
-
+bool Stack::full() const {
+    return ind == max-1;
+}
 
