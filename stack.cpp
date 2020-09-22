@@ -24,5 +24,9 @@ int Stack::top() const {
     return arr[ind];
 }
 
+bool Stack::empty() const {
+    return ind == -1;
+}
+
 
 
