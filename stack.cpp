@@ -17,6 +17,6 @@ bool Stack::push(int num) {
 }
 
 void Stack::pop() {
-
+    ind--;
 }
 
